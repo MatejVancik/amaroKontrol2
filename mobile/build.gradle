@@ -49,7 +49,7 @@ dependencies {
     wearApp project(':wear')
     compile 'com.jakewharton:butterknife:8.4.0'
 
-    compile 'com.google.android.gms:play-services-wearable:9.8.00'
+    compile 'com.google.android.gms:play-services-wearable:9.8.0'
     compile 'com.android.support:appcompat-v7:25.0.0'
     compile 'com.android.support:support-v4:25.0.0'
 
